@@ -1,4 +1,5 @@
 
+
 # Cloud-basic-study
 Cloud basic learning content
 
@@ -97,6 +98,7 @@ RDS (데이터베이스)
 ## 🧪 실습 내용
 
 - [x] VPC 생성 및 설정
+      <img width="2286" height="1162" alt="image" src="https://github.com/user-attachments/assets/9c085c7f-a42f-4006-846a-138a7fa4eae7" />
 - [x] 서브넷 구성 (퍼블릭/프라이빗)
 - [x] EC2 인스턴스 생성
 - [x] NAT 게이트웨이 설정
