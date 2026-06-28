@@ -1,4 +1,4 @@
-<img width="2286" height="1162" alt="image" src="https://github.com/user-attachments/assets/038016dc-2d2f-4b49-9343-bb23352e4c8d" />
+
 # Cloud-basic-study
 Cloud basic learning content
 
