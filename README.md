@@ -1,2 +1,2 @@
 # Cloud-basic-study
-Cloud basic learnig content
+Cloud basic learning content
