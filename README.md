@@ -99,10 +99,27 @@ RDS (데이터베이스)
 
 - [x] VPC 생성 및 설정
       <img width="2286" height="1162" alt="image" src="https://github.com/user-attachments/assets/9c085c7f-a42f-4006-846a-138a7fa4eae7" />
+      <img width="2832" height="1370" alt="image3" src="https://github.com/user-attachments/assets/34979e48-abba-4351-939d-f0722bea8c68" />
 - [x] 서브넷 구성 (퍼블릭/프라이빗)
+      <img width="2792" height="1170" alt="image1" src="https://github.com/user-attachments/assets/1e4ab682-5cf6-42f2-a708-c280c33a406c" />
 - [x] EC2 인스턴스 생성
+      <img width="2806" height="1166" alt="image5" src="https://github.com/user-attachments/assets/52e28fe7-ba6d-49ec-abad-859ec9d6f107" />
+      <img width="2788" height="1256" alt="image6" src="https://github.com/user-attachments/assets/4122790e-6541-48ac-ad8d-8dfff37ac0b7" />
+      <img width="2856" height="1246" alt="image7" src="https://github.com/user-attachments/assets/14f846ca-87f0-4e03-9a59-6cac8b5beed8" />
+      <img width="2836" height="1258" alt="image8" src="https://github.com/user-attachments/assets/cac56042-b782-482a-a368-ada12f11978f" />
 - [x] NAT 게이트웨이 설정
 - [x] 라우팅 테이블 구성
+      <img width="2754" height="1236" alt="image2" src="https://github.com/user-attachments/assets/44391622-88e4-4b0d-ad42-dbbd3871eae0" />
 - [x] 보안 그룹 설정
+      <img width="2836" height="1266" alt="image4" src="https://github.com/user-attachments/assets/4e631e79-2891-4cff-9582-6000cd9c2e26" />
 - [x] nginx 웹서버 접속 확인
+- [x] S3 버킷 생성 및 설정
+      <img width="2642" height="1006" alt="image9" src="https://github.com/user-attachments/assets/fd0aa0e1-61b6-40e7-9062-25f1136bd635" />
+      <img width="2638" height="1078" alt="image10" src="https://github.com/user-attachments/assets/5be909f2-5162-44dd-8b02-506204ba1e12" />
+      <img width="2708" height="1482" alt="image11" src="https://github.com/user-attachments/assets/a6caea33-fe4d-442a-a63f-1dcb4a932035" />
+- [x] SNS 생성 및 설정
+      <img width="2844" height="1018" alt="image12" src="https://github.com/user-attachments/assets/c74e9189-1df5-403c-a8f7-409f4b894d5e" />
+      <img width="2872" height="1272" alt="image13" src="https://github.com/user-attachments/assets/88638a5f-1e0b-4e32-8a3d-00c2599e6274" />
+- [x] IAM 사용자/권한 설정
+      <img width="2448" height="1346" alt="image14" src="https://github.com/user-attachments/assets/2daf4a08-9914-46ef-8df7-3642837e54d7" />
 - [x] AWS 자원 정리 (비용 최적화)
